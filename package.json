@@ -1,6 +1,7 @@
 {
   "name": "micro-frontend-react",
   "version": "1.0.0",
+  "homepage": "https://nienow.github.io/micro-frontend-react",
   "scripts": {
     "start": "PORT=3001 react-scripts start",
     "build": "react-scripts build",
